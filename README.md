@@ -7,4 +7,6 @@ Make a copy of the Hearts of Iron IV Folder which you can find under:
   Program Files (x86) > Steam > steamapps > common > Hearts of Iron IV > 
 Put this copy on your desktop. 
 Open up Visual Studios and proceed to open the copy of the Hearts of Iron IV folder
-Click on "View" and then click on "
+Click on "View" and then click on "Command Palette" then type in "HOI4 Preview World Map". This will bring up the entire Hearts of Iron IV map
+Go to View Mode and select "States". 
+Go to Display and click on "Show Display" to turn it off. 
